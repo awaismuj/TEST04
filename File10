@@ -1,0 +1,8 @@
+
+a=1
+b=5
+prin(a>b)
+print(a<b)
+print(a>=b)
+print(a<=)
+
